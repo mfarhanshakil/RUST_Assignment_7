@@ -1,0 +1,10 @@
+[package]
+name = "assig7_task3"
+version = "0.1.0"
+authors = ["mfarhanshakil <mfarhanshakil@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+piaic_lib = {path = "../piaic_lib"}
