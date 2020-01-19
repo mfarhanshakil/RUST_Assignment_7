@@ -1,0 +1,1 @@
+D:\Courses\IoT_PIAIC\Quarter\ #\ 1\Assignments\assignment_no_7\assig7_task2\target\debug\assig7_task2.pdb: D:\Courses\IoT_PIAIC\Quarter\ #\ 1\Assignments\assignment_no_7\assig7_task2\src\lib.rs D:\Courses\IoT_PIAIC\Quarter\ #\ 1\Assignments\assignment_no_7\assig7_task2\src\main.rs
